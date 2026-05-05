@@ -31,16 +31,6 @@ exercicios-basicos/
     ├── tabuada-p.jfif
 ```
 
-
-
----
-
-
----
-
-## ✅ DEIXA ASSIM (CORRETO)
-
-```markdown
 ## 🖼️ Demonstração dos exercícios
 
 ### 📊 Média de números
@@ -65,3 +55,8 @@ exercicios-basicos/
 
 ### 📉 Fatorial
 ![Fatorial](exercicios-basicos/imagens/fatorial-p.jfif)
+
+---
+
+### ⚡ Potenciação
+![Potenciação](exercicios-basicos/imagens/potenciacao-p.jfif)
