@@ -1,39 +1,45 @@
 # 🐍 Estudos em Python
 
 ![Status](https://img.shields.io/badge/status-em%20evolução-blue)
-![Linguagem](https://img.shields.io/badge/python-programação-yellow)
+![Python](https://img.shields.io/badge/python-3.x-yellow)
 ![Foco](https://img.shields.io/badge/foco-lógica%20de%20programação-green)
 
 ---
 
 ## 📌 Sobre o projeto
 
-Repositório com exercícios e práticas iniciais em **Python**, focados no desenvolvimento da lógica de programação.
+Este repositório reúne exercícios práticos em Python focados no desenvolvimento da lógica de programação.
 
-Os exercícios abordam conceitos essenciais para quem está iniciando na programação.
+Os projetos abordam conceitos fundamentais como:
+
+- Entrada e saída de dados  
+- Estruturas de repetição (`for`, `while`)  
+- Condicionais (`if/else`)  
+- Funções  
+- Manipulação de números  
 
 ---
 
-## 📁 Estrutura do repositório
+## 📁 Estrutura do projeto
 
 ```text
-estudos-python/
+exercicios-basicos/
 │
-├── exercícios básicos/
-│   ├── ex02-tabuada-de-um-numero.py
-│   ├── fatorial.py
-│   ├── fibonacci.py
-│   ├── media-numeros-digitados.py
-│   ├── soma-ate-digitar-zero.py
-│   │
-│   └── imagens/
-│       ├── fatorial-p.jfif
-│       ├── fibonacci-p.jfif
-│       ├── media-p.jfif
-│       ├── soma-p.jfif
-│       ├── tabuada-p.jfif
-│       └── potenciacao-p.jfif
----
+├── ex02-tabuada-de-um-numero.py
+├── fatorial.py
+├── fibonacci.py
+├── media-numeros-digitados.py
+├── soma-ate-digitar-zero.py
+│
+└── imagens/
+    ├── fatorial-p.jfif
+    ├── fibonacci-p.jfif
+    ├── media-p.jfif
+    ├── soma-p.jfif
+    ├── tabuada-p.jfif
+    └── potenciacao-p.jfif
+---text
+
 ## 🖼️ Demonstração dos exercícios
 
 ### 📊 Média de números
