@@ -32,7 +32,17 @@ exercicios-basicos/
 ```
 
 
-```markdown id="blocoimagenscorreto"
+
+---
+
+
+---
+
+## ✅ DEIXA ASSIM (CORRETO)
+
+```markdown
+## 🖼️ Demonstração dos exercícios
+
 ### 📊 Média de números
 ![Média](exercicios-basicos/imagens/media-p.jfif)
 
@@ -55,5 +65,3 @@ exercicios-basicos/
 
 ### 📉 Fatorial
 ![Fatorial](exercicios-basicos/imagens/fatorial-p.jfif)
-
-```
