@@ -37,29 +37,29 @@ estudos-python/
 ## 🖼️ Demonstração dos exercícios
 
 ### 📊 Média de números
-![Média](exercícios%20básicos/imagens/media-p.jfif)
+![Média](exercicios%20basicos/imagens/media-p.jfif)
 
 ---
 
 ### 🔢 Tabuada
-![Tabuada](exercícios%20básicos/imagens/tabuada-p.jfif)
+![Tabuada](exercicios%20basicos/imagens/tabuada-p.jfif)
 
 ---
 
 ### ➕ Soma até digitar zero
-![Soma](exercícios%20básicos/imagens/soma-p.jfif)
+![Soma](exercicios%20basicos/imagens/soma-p.jfif)
 
 ---
 
 ### 🔁 Fibonacci
-![Fibonacci](exercícios%20básicos/imagens/fibonacci-p.jfif)
+![Fibonacci](exercicios%20basicos/imagens/fibonacci-p.jfif)
 
 ---
 
 ### 📉 Fatorial
-![Fatorial](exercícios%20básicos/imagens/fatorial-p.jfif)
+![Fatorial](exercicios%20basicos/imagens/fatorial-p.jfif)
 
 ---
 
 ### ⚡ Potenciação
-![Potenciação](exercícios%20básicos/imagens/potenciacao-p.jfif)p.jfif)
+![Potenciação](exercicios%20basicos/imagens/potenciacao-p.jfif)
