@@ -58,5 +58,4 @@ exercicios-basicos/
 
 ---
 
-### ⚡ Potenciação
-![Potenciação](exercicios-basicos/imagens/potenciacao-p.jfif)
+
