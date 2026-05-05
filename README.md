@@ -29,8 +29,8 @@ exercicios-basicos/
     ├── media-p.jfif
     ├── soma-p.jfif
     ├── tabuada-p.jfif
-    └── potenciacao-p.jfif
----
+```
+
 
 ```markdown id="blocoimagenscorreto"
 ### 📊 Média de números
@@ -56,4 +56,4 @@ exercicios-basicos/
 ### 📉 Fatorial
 ![Fatorial](exercicios-basicos/imagens/fatorial-p.jfif)
 
----
+```
