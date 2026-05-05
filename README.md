@@ -10,14 +10,6 @@
 
 Este repositório reúne exercícios práticos em Python focados no desenvolvimento da lógica de programação.
 
-Os projetos abordam conceitos fundamentais como:
-
-- Entrada e saída de dados  
-- Estruturas de repetição (`for`, `while`)  
-- Condicionais (`if/else`)  
-- Funções  
-- Manipulação de números  
-
 ---
 
 ## 📁 Estrutura do projeto
@@ -38,10 +30,9 @@ exercicios-basicos/
     ├── soma-p.jfif
     ├── tabuada-p.jfif
     └── potenciacao-p.jfif
----text
+---
 
-## 🖼️ Demonstração dos exercícios
-
+```markdown id="blocoimagenscorreto"
 ### 📊 Média de números
 ![Média](exercicios-basicos/imagens/media-p.jfif)
 
@@ -66,6 +57,3 @@ exercicios-basicos/
 ![Fatorial](exercicios-basicos/imagens/fatorial-p.jfif)
 
 ---
-
-### ⚡ Potenciação
-![Potenciação](exercicios-basicos/imagens/potenciacao-p.jfif)
